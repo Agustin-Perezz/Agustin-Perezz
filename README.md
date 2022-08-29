@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Agustin-Perezz
-- 👀 I’m interested in Web Programing
-- 🌱 I’m currently learning React JS & SASS & JavaScript & ETC
-- 💞️ I’m looking to collaborate in any project that adds to my career
-- 📫 How to reach me agustinnicolas806@gmail.com
+## 👋 Hi, I’m @Agustin-Perezz
 
-<!---
-Agustin-Perezz/Agustin-Perezz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub, I'm a Full-Stack Web Developer. I was born in Argentina, in 2003.
+
+I’m looking to collaborate in any project that adds to my career or my web skills.
+
+📫 How to reach me:
+- [Linkedin](https://www.linkedin.com/in/agustinperez-front-end-developer/)
+- [Instagram](https://www.instagram.com/agus.perez._/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agustin-Perezz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agustin-Perezz)](https://github.com/anuraghazra/github-readme-stats)
