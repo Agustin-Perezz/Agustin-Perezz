@@ -11,7 +11,7 @@ I’m available for freelance projects, remote collaboration, and consulting on 
 If you’re building something and need scalable, maintainable UI — let’s work together!
 
 ## Skills && Technologies:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,svelte,react,nextjs,nodejs,nestjs,tailwind,firebase,git,github,githubactions,linux,docker,postgres,mysql,aws,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,svelte,react,vite,nextjs,nodejs,nestjs,tailwind,firebase,git,github,githubactions,linux,mint,docker,postgres,mysql,aws,vim)](https://skillicons.dev)
 
 
 ## My preferences:
