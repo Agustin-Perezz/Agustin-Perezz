@@ -13,10 +13,6 @@ If you’re building something and need scalable, maintainable UI — let’s wo
 ## Skills && Technologies:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,svelte,react,vite,nodejs,nestjs,tailwind,firebase,git,github,githubactions,linux,mint,docker,postgres,mysql,aws,vim)](https://skillicons.dev)
 
-
-## My preferences:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agustin-Perezz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ⭐ "If you can imagine it, you can program it" - ProgramacionATS
 
 <p align="center">
